@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Anders E. Vrålstad Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://andersvra.github.io/</link>
     <description>Recent content in Home on Anders E. Vrålstad Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 25 Nov 2024 09:51:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Nov 2024 09:51:58 +0100</lastBuildDate><atom:link href="https://andersvra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coherence Based Sound Speed Aberration Correction — with clinical validation in obstetric ultrasound</title>
-      <link>http://localhost:1313/research/coherenceaberration/</link>
+      <link>https://andersvra.github.io/research/coherenceaberration/</link>
       <pubDate>Mon, 25 Nov 2024 09:51:58 +0100</pubDate>
       
-      <guid>http://localhost:1313/research/coherenceaberration/</guid>
+      <guid>https://andersvra.github.io/research/coherenceaberration/</guid>
       
       <description>&lt;p&gt;The preprint is published on &lt;a href=&#34;https://arxiv.org/&#34;&gt;arXiv&lt;/a&gt;.
 Supplementary GIF images are found below.&lt;/p&gt;
@@ -25,23 +25,23 @@ The method is validated &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in silico&lt
     
     <item>
       <title>Preprint of &#34;Coherence Based Sound Speed Aberration Correction&#34;</title>
-      <link>http://localhost:1313/posts/thirdpaperpreprint/</link>
+      <link>https://andersvra.github.io/posts/thirdpaperpreprint/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/thirdpaperpreprint/</guid>
+      <guid>https://andersvra.github.io/posts/thirdpaperpreprint/</guid>
       
       <description>&lt;p&gt;My thrid paper for my PhD is called &amp;ldquo;Coherence Based Sound Speed Aberration Correction — with clinical validation in obstetric ultrasound&amp;rdquo;.
 A preprint of the paper is found on &lt;a href=&#34;https://arxiv.org/&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Read more about it on the &lt;a href=&#34;http://localhost:1313/research/coherenceaberration/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read more about it on the &lt;a href=&#34;https://andersvra.github.io/research/coherenceaberration/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Sound Speed and Virtual Source Correction in Synthetic Transmit Focusing</title>
-      <link>http://localhost:1313/posts/firstpaperpublished/</link>
+      <link>https://andersvra.github.io/posts/firstpaperpublished/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/firstpaperpublished/</guid>
+      <guid>https://andersvra.github.io/posts/firstpaperpublished/</guid>
       
       <description>&lt;p&gt;My first paper for my PhD is called &amp;ldquo;Sound Speed and Virtual Source Correction in Synthetic Transmit Focusing&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
 &lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10552357&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
@@ -50,10 +50,10 @@ A preprint of the paper is found on &lt;a href=&#34;https://arxiv.org/&#34;&gt;a
     
     <item>
       <title>Universal REFoCUS Beamforming With Spatial Weighting</title>
-      <link>http://localhost:1313/posts/secondpaperpublished/</link>
+      <link>https://andersvra.github.io/posts/secondpaperpublished/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/secondpaperpublished/</guid>
+      <guid>https://andersvra.github.io/posts/secondpaperpublished/</guid>
       
       <description>&lt;p&gt;My second paper for my PhD is called &amp;ldquo;Universal REFoCUS Beamforming With Spatial Weighting&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
 &lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10525686&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
@@ -62,10 +62,10 @@ A preprint of the paper is found on &lt;a href=&#34;https://arxiv.org/&#34;&gt;a
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://andersvra.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://andersvra.github.io/about/</guid>
       
       <description>&lt;h2 id=&#34;comming-soon&#34;&gt;Comming soon&amp;hellip;&lt;/h2&gt;</description>
       
