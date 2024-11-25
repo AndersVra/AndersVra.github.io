@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Anders E. Vrålstad Portfolio</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Research on Anders E. Vrålstad Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 25 Nov 2024 09:51:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coherence Based Sound Speed Aberration Correction — with clinical validation in obstetric ultrasound</title>
+      <link>http://localhost:1313/research/coherenceaberration/</link>
+      <pubDate>Mon, 25 Nov 2024 09:51:58 +0100</pubDate>
+      
+      <guid>http://localhost:1313/research/coherenceaberration/</guid>
+      
+      <description>&lt;p&gt;The preprint is published on &lt;a href=&#34;https://arxiv.org/&#34;&gt;arXiv&lt;/a&gt;.
+Supplementary GIF images are found below.&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The purpose of this work is to demonstrate a robust and clinically validated method for correcting sound speed aberrations in medical ultrasound. We propose a correction method that calculates focusing delays directly from the observed two-way distributed average sound speed. The method beamforms multiple coherence images and selects the sound speed that maximizes the coherence for each image pixel.
+The main contribution of this work is the direct estimation of aberration, without the ill-posed inversion of a local sound speed map, and the proposed processing of coherence images which adapts to &lt;em&gt;in vivo&lt;/em&gt; situations where low coherent regions and off-axis scattering represents a challenge.
+The method is validated &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in silico&lt;/em&gt; showing high correlation with ground truth speed of sound maps. Further, the method is clinically validated by being applied to channel data recorded from 172 obstetric Bmode images, and 12 case examples are presented and discussed in detail. The data is recorded with a GE HealthCare Voluson Expert 22 system with an eM6c matrix array probe. The images are evaluated by three expert clinicians, and the results show that the corrected images are preferred or gave equivalent quality to no correction 1540m/s for 72.5% of the 172 images. In addition, a sharpness metric from digital photography is used to quantify image quality improvement. The increase in sharpness and the change in average sound speed are shown to be linearly correlated with a Pearson Correlation Coefficient of 0.67.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
