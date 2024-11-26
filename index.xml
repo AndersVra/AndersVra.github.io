@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Anders E. Vrålstad Portfolio</title>
-    <link>https://andersvra.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Anders E. Vrålstad Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 25 Nov 2024 09:51:58 +0100</lastBuildDate><atom:link href="https://andersvra.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Nov 2024 09:51:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coherence Based Sound Speed Aberration Correction — with clinical validation in obstetric ultrasound</title>
-      <link>https://andersvra.github.io/research/coherenceaberration/</link>
+      <link>http://localhost:1313/research/coherenceaberration/</link>
       <pubDate>Mon, 25 Nov 2024 09:51:58 +0100</pubDate>
       
-      <guid>https://andersvra.github.io/research/coherenceaberration/</guid>
+      <guid>http://localhost:1313/research/coherenceaberration/</guid>
       
       <description>&lt;p&gt;Anders Emil Vrålstad,
 Peter Fosodeder,
@@ -31,23 +31,23 @@ The method is validated &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in silico&lt
     
     <item>
       <title>Preprint of &#34;Coherence Based Sound Speed Aberration Correction&#34;</title>
-      <link>https://andersvra.github.io/posts/thirdpaperpreprint/</link>
+      <link>http://localhost:1313/posts/thirdpaperpreprint/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/posts/thirdpaperpreprint/</guid>
+      <guid>http://localhost:1313/posts/thirdpaperpreprint/</guid>
       
       <description>&lt;p&gt;My third paper for my PhD is called &amp;ldquo;Coherence Based Sound Speed Aberration Correction — with clinical validation in obstetric ultrasound&amp;rdquo;.
 A preprint of the paper is found on &lt;a href=&#34;http://arxiv.org/abs/2411.16551&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Read more about it on the &lt;a href=&#34;https://andersvra.github.io/research/coherenceaberration/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read more about it on the &lt;a href=&#34;http://localhost:1313/research/coherenceaberration/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Sound Speed and Virtual Source Correction in Synthetic Transmit Focusing</title>
-      <link>https://andersvra.github.io/posts/firstpaperpublished/</link>
+      <link>http://localhost:1313/posts/firstpaperpublished/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/posts/firstpaperpublished/</guid>
+      <guid>http://localhost:1313/posts/firstpaperpublished/</guid>
       
       <description>&lt;p&gt;My first paper for my PhD is called &amp;ldquo;Sound Speed and Virtual Source Correction in Synthetic Transmit Focusing&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
 &lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10552357&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
@@ -56,10 +56,10 @@ A preprint of the paper is found on &lt;a href=&#34;http://arxiv.org/abs/2411.16
     
     <item>
       <title>Universal REFoCUS Beamforming With Spatial Weighting</title>
-      <link>https://andersvra.github.io/posts/secondpaperpublished/</link>
+      <link>http://localhost:1313/posts/secondpaperpublished/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/posts/secondpaperpublished/</guid>
+      <guid>http://localhost:1313/posts/secondpaperpublished/</guid>
       
       <description>&lt;p&gt;My second paper for my PhD is called &amp;ldquo;Universal REFoCUS Beamforming With Spatial Weighting&amp;rdquo; and is published in IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Volume 4).&lt;/p&gt;
 &lt;p&gt;Read the open-access article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10525686&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
@@ -67,13 +67,22 @@ A preprint of the paper is found on &lt;a href=&#34;http://arxiv.org/abs/2411.16
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://andersvra.github.io/about/</link>
+      <title>Anders Emil Vrålstad</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andersvra.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       
-      <description>&lt;h2 id=&#34;comming-soon&#34;&gt;Comming soon&amp;hellip;&lt;/h2&gt;</description>
+      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Researcher at &lt;a href=&#34;https://www.ntnu.edu/isb&#34;&gt;Department of Circulation and Medical Imaging&lt;/a&gt;, Faculty of medicine and health sciences, Norwegian University of Science and Technology (NTNU)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I continue my research from the PhD and start new projects including 3D focusing and parameter optimization using macheie learning methods. The goal is to improve the image quality and acquisition time. The position is financed by GE Healthcare Womens Health and NTNU.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ph.D in Medical Technology at the &lt;a href=&#34;https://www.ntnu.edu/isb&#34;&gt;Department of Circulation and Medical Imaging&lt;/a&gt;, Faculty of medicine and health sciences, Norwegian University of Science and Technology (NTNU), 2024. The title of the Ph.D thesis is &amp;ldquo;Retrospective Beamforming and Sound Speed Correction&amp;rdquo;. The research is partly financed by GE Healthcare Women&amp;rsquo;s Health through the Center of Innovative Ultrasound Solutions &lt;a href=&#34;https://www.ntnu.edu/cius&#34;&gt;(CIUS)&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
